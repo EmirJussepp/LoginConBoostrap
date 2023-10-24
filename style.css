@@ -1,0 +1,13 @@
+
+body {
+    background: #ffe259;
+    background: linear-gradient(to right, #515050, #797979);
+    font-family: 'Lexend Zetta', sans-serif;
+
+}
+.bg {
+    background-image: url(img/img1.jpg);
+    background-position: center center;
+}
+
+.imagen:hover {filter: blur(5px);}
